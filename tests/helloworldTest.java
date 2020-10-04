@@ -9,5 +9,7 @@ public void passTest(){}
 public void failTest() {
     fail();
 }
+@Test
+    public void Test(){}
 
 }
